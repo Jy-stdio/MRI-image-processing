@@ -3,3 +3,4 @@
 *.dcm
 *.nii.gz
 *.pdf
+.DS_Store
